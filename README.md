@@ -1,4 +1,4 @@
-# Sistema de Contato Simples - Laravel
+# Sistema de Contato Simples - Laravel castering
 
 Projeto desenvolvido em Laravel como teste técnico, com o objetivo de criar um sistema de contato funcional seguindo o padrão MVC.
 
