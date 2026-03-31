@@ -124,8 +124,8 @@ Nenhum pacote adicional foi utilizado. O sistema foi desenvolvido apenas com rec
 
 ## Versões utilizadas
 
-- Laravel 11
-- PHP 8.2+
+- Laravel 13.2
+- PHP 8.3
 - MySQL
 
 ## Autor
