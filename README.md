@@ -1,4 +1,4 @@
-# Sistema de Contato Simples - Laravel castering
+# Sistema de Contato Simples - Laravel
 
 Projeto desenvolvido em Laravel como teste técnico, com o objetivo de criar um sistema de contato funcional seguindo o padrão MVC.
 
@@ -28,7 +28,7 @@ Projeto desenvolvido em Laravel como teste técnico, com o objetivo de criar um 
 
 ### 1. Clonar o repositório
 
-    git clone URL_DO_SEU_REPOSITORIO
+    git clone https://github.com/MaxOjopi/contact-system.git
     cd contact-system
 
 ### 2. Instalar as dependências
